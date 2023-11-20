@@ -1,0 +1,1 @@
+SELECT * Students WHERE City REGEXP '^[ACSacs]';
